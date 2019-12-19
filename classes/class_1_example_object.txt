@@ -1,9 +1,9 @@
  Class: Soup
 
- Instance: chickenNoddle
+ Instance: clamChowder
 
  Attributes:
- flavor: 'watery'
+ viscosity: 'thick'
  totalCapacity: 8
  currentCapacity: 6
  isHot: true
@@ -11,6 +11,6 @@
  Methods:
 
  addHeat (isHot = true)
- addSpice ('salty')
- eatSoup ( 8 - 6 = 2)
+ addWater ('watery')
+ eatSoup (8 - 6 = 2)
  spillSoup (currentCapacity = 0)

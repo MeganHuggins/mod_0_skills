@@ -1,7 +1,7 @@
 Class: Soup
 
 Attributes:
-flavor (string)
+viscosity (string)
 totalCapacity (integer)
 currentCapacity (integer)
 isHot (boolean)
@@ -11,6 +11,6 @@ isHot (boolean)
 Methods:
 
 addHeat (change isHot attribute to true)
-addSpice (change the flavor attribute)
+addWater (change the viscosity attribute)
 eatSoup ( subtract currentCapacity from totalCapacity)
 spillSoup (zero out currentCapacity)

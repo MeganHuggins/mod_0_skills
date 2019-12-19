@@ -1,0 +1,16 @@
+Class : Salad
+
+Instance: House
+
+Attributes:
+flavor: 'no flavor'
+totalCapacity: 10
+currentCapacity: 5
+potentialDressing: ['caesar', 'ranch', 'blueCheese', 'balsamic']
+
+Methods:
+
+removeDressing (['caesar', 'ranch', 'blueCheese'])
+addBerries ('sweet')
+eatSalad (10 - 5 = 5)
+addCroutons (10 + 2 = 12)

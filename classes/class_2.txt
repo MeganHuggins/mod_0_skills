@@ -9,6 +9,6 @@ potentialDressing (array)
 Methods:
 
 removeDressing (removes dressing from end of array)
-addBerries (change the flavor attribute)
+addBerries (change the flavor attribute to sweet)
 eatSalad ( subtract currentCapacity from totalCapacity)
-addCroutons (adds 2 to totalCapacity)
+addCroutons (adds 2 to currentCapacity)
