@@ -1,0 +1,16 @@
+ Class: Soup
+
+ Instance: chickenNoddle
+
+ Attributes:
+ flavor: 'watery'
+ totalCapacity: 8
+ currentCapacity: 6
+ isHot: true
+
+ Methods:
+
+ addHeat (isHot = true)
+ addSpice ('salty')
+ eatSoup ( 8 - 6 = 2)
+ spillSoup (currentCapacity = 0)
