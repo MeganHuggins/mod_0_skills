@@ -1,0 +1,14 @@
+Class: Salad
+
+Attributes:
+flavor (string)
+totalCapacity (integer)
+currentCapacity (integer)
+potentialDressing (array)
+
+Methods:
+
+removeDressing (removes dressing from end of array)
+addBerries (change the flavor attribute)
+eatSalad ( subtract currentCapacity from totalCapacity)
+addCroutons (adds 2 to totalCapacity)
