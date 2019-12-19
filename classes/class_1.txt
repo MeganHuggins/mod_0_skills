@@ -7,6 +7,7 @@ currentCapacity (integer)
 isHot (boolean)
 
 
+
 Methods:
 
 addHeat (change isHot attribute to true)
