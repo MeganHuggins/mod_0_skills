@@ -12,5 +12,5 @@ Methods:
 
 addHeat (change isHot attribute to true)
 addSpice (change the flavor attribute)
-eatSoup ( currentCapacity / totalCapacity)
+eatSoup ( subtract currentCapacity from totalCapacity)
 spillSoup (zero out currentCapacity)
