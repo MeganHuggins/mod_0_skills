@@ -12,5 +12,5 @@ Methods:
 
 addHeat (change isHot attribute to true)
 addWater (change the viscosity attribute)
-eatSoup ( subtract currentCapacity from totalCapacity)
+addCrackers (add 3 to currentCapacity)
 spillSoup (zero out currentCapacity)

@@ -6,11 +6,11 @@ Attributes:
 flavor: 'no flavor'
 totalCapacity: 10
 currentCapacity: 5
-potentialDressing: ['caesar', 'ranch', 'blueCheese', 'balsamic']
+potentialDressing: ['caesar', 'ranch', 'blue cheese', 'balsamic']
 
 Methods:
 
-removeDressing (['caesar', 'ranch', 'blueCheese'])
+removeDressing (['caesar', 'ranch', 'blue cheese'])
 addBerries ('sweet')
 eatSalad (10 - 5 = 5)
 addCroutons (10 + 2 = 12)

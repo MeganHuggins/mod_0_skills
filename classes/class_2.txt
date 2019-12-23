@@ -10,5 +10,5 @@ Methods:
 
 removeDressing (removes dressing from end of array)
 addBerries (change the flavor attribute to sweet)
-eatSalad ( subtract currentCapacity from totalCapacity)
+eatSalad (subtract 2 from currentCapacity)
 addCroutons (adds 2 to currentCapacity)

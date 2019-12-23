@@ -12,5 +12,5 @@
 
  addHeat (isHot = true)
  addWater ('watery')
- eatSoup (8 - 6 = 2)
+ addCrackers (8 + 3 = 12)
  spillSoup (currentCapacity = 0)
